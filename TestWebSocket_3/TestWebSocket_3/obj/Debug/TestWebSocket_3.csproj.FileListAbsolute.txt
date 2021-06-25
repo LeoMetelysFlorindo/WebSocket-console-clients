@@ -1,0 +1,7 @@
+C:\fonts\TestWebSocket_3\TestWebSocket_3\obj\Debug\TestWebSocket_3.csproj.CoreCompileInputs.cache
+C:\fonts\TestWebSocket_3\TestWebSocket_3\bin\Debug\TestWebSocket_3.exe.config
+C:\fonts\TestWebSocket_3\TestWebSocket_3\bin\Debug\TestWebSocket_3.exe
+C:\fonts\TestWebSocket_3\TestWebSocket_3\bin\Debug\TestWebSocket_3.pdb
+C:\fonts\TestWebSocket_3\TestWebSocket_3\obj\Debug\TestWebSocket_3.exe
+C:\fonts\TestWebSocket_3\TestWebSocket_3\obj\Debug\TestWebSocket_3.pdb
+C:\fonts\TestWebSocket_3\TestWebSocket_3\obj\Debug\TestWebSocket_3.csprojAssemblyReference.cache

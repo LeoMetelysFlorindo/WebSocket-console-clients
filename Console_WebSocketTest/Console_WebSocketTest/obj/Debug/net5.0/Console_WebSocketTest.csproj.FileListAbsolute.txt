@@ -1,0 +1,16 @@
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\bin\Debug\net5.0\Console_WebSocketTest.exe
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\bin\Debug\net5.0\Console_WebSocketTest.deps.json
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\bin\Debug\net5.0\Console_WebSocketTest.runtimeconfig.json
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\bin\Debug\net5.0\Console_WebSocketTest.runtimeconfig.dev.json
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\bin\Debug\net5.0\Console_WebSocketTest.dll
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\bin\Debug\net5.0\ref\Console_WebSocketTest.dll
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\bin\Debug\net5.0\Console_WebSocketTest.pdb
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\obj\Debug\net5.0\Console_WebSocketTest.csprojAssemblyReference.cache
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\obj\Debug\net5.0\Console_WebSocketTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\obj\Debug\net5.0\Console_WebSocketTest.AssemblyInfoInputs.cache
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\obj\Debug\net5.0\Console_WebSocketTest.AssemblyInfo.cs
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\obj\Debug\net5.0\Console_WebSocketTest.csproj.CoreCompileInputs.cache
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\obj\Debug\net5.0\Console_WebSocketTest.dll
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\obj\Debug\net5.0\ref\Console_WebSocketTest.dll
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\obj\Debug\net5.0\Console_WebSocketTest.pdb
+C:\fonts\Console_WebSocketTest\Console_WebSocketTest\obj\Debug\net5.0\Console_WebSocketTest.genruntimeconfig.cache
